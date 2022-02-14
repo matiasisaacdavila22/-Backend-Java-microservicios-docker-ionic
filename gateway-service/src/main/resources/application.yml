@@ -4,7 +4,7 @@ server:
   #ssl:
   #  enabled: true # Uses self-signed certificate because no key-store configuration is specified.
 
-internal.lb.uri: http://127.0.0.1 
+internal.lb.uri: http://35.198.56.244 
 spring:
   cloud:
     gateway:
